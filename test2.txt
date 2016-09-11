@@ -1,0 +1,2 @@
+这是第二次.先在github上创建一个空的仓库,然后本地也是只执行了init指令的空的仓库,然后设置远程路径,先pull下来github上的仓库,然后在push这就可以了.原来的问题是,本地仓库已经执行了add还有commit,所以在push的时候提示先pull,但是pull的时候又提示 refusing to merge unrelated histories.就没有办法了.
+如果一个已经操作了很长时间的本地仓库,需要提交到github,该怎么办么?
